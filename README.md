@@ -1,6 +1,6 @@
 ﻿# 오우썸 딥바이오 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gokceneraslan/awesome-deepbio)
 
-**2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi*|[Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
+- **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi*|[Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
 
 - **2012-10** | Predicting protein residue–residue contacts using deep networks and boosting | *Jesse Eickholt and Jianlin Cheng* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts598)
 
