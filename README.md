@@ -1,9 +1,6 @@
-# Awesome DeepBio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gokceneraslan/awesome-deepbio)
+﻿# 오우썸 딥바이오 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gokceneraslan/awesome-deepbio)
 
-A curated list of awesome deep learning applications in the field of computational biology
-
-
-- **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi* [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
+**2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi*|[Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
 
 - **2012-10** | Predicting protein residue–residue contacts using deep networks and boosting | *Jesse Eickholt and Jianlin Cheng* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts598)
 
@@ -23,7 +20,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-05** | Trans-species learning of cellular signaling systems with bimodal deep belief networks | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btv315)
 
-- **2015-05** | Deep convolutional neural networks for annotating gene expression patterns in the mouse brain | *Tao Zeng, Rongjian Li, Ravi Mukkamala, Jieping Ye and Shuiwang Ji* | [BMC Bioinformatics](https://doi.org/10.1186/s12859-015-0553-9)
+- **2015-05** | Deep convolutional neural networks for annotating gene expression patterns in the mouse brain | *Tao Zeng, Rongjian Li, Ravi Mukkamala, Jieping Ye and Shuiwang Ji* | [BMC Bioinformatics](https://doi.org/10.1186/s12859-015-0553-9) | [리뷰](https://github.com/jaeseung172/CNNMouseBrainAnalysis)
 
 - **2015-07** | DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning | *Babak Alipanahi,	 Andrew Delong,	Matthew T. Weirauch & Brendan J. Frey* | [Nature Biotechnology](https://doi.org/10.1038/nbt.3300)
 
